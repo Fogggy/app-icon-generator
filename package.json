@@ -1,0 +1,23 @@
+{
+  "name": "app-icon-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-icon.js",
+  "dependencies": {
+    "gm": "^1.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fogggy/app-icon-generator.git"
+  },
+  "author": "Oleg Shevchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fogggy/app-icon-generator/issues"
+  },
+  "homepage": "https://github.com/Fogggy/app-icon-generator#readme"
+}
